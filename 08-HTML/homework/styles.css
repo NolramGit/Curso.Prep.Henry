@@ -1,0 +1,33 @@
+body{
+    background: url("background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+}
+h1{
+    color: rgb(211, 218, 123);
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: midnightblue;
+    padding: 50px;
+    border: 1px solid red ;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px 50px 50px 50px;
+}
+
+.divClass{
+    text-align: center;
+}
